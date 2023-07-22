@@ -11,3 +11,4 @@
 - EV_dataset_analysis.ipynb this file contans the codes
 - washington-state-counties_.geojson this is a json file which is required when we plot choropleth map
 - ev_make_racing_bar_plot.mp4 this is a video of ev make with respect to the year
+- EV_counts_in_WA this is a picture of the EV counts in County wises
